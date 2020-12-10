@@ -1,0 +1,23 @@
+{
+  "name": "cypress-end-to-end",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^6.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spyrado/cypress-end-to-end.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spyrado/cypress-end-to-end/issues"
+  },
+  "homepage": "https://github.com/spyrado/cypress-end-to-end#readme"
+}
